@@ -1,0 +1,14 @@
+def areaofhome(length, width):
+    area = length * width
+    
+length = float(input('Enter length: '))
+width = float(input('Enter width: '))
+
+areaofhome(length, width)
+
+def 
+print("Enter radius of circle:")
+r = float(input())
+pie = 3.14
+c = 2 * pie * r
+print("Circumference =", c)
